@@ -93,6 +93,6 @@ function delayedDownload() {
   setTimeout(function() {
     // Code to initiate the file download
     // Replace the URL with the actual download URL
-    window.location.href = "Heer_Resume_042023.pdf";
+    window.location.href = "Heer_Resume.pdf";
   }, 1700); // Adjust the delay time as needed (in milliseconds)
 }
